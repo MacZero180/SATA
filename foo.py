@@ -5,3 +5,4 @@ def foo2():
 def foo3():
     pass
 print("lorem ipsum")
+print("hola")
